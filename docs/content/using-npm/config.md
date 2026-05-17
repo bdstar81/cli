@@ -1992,7 +1992,8 @@ relevant.
 
 ### See also
 
-* [npm config](/commands/npm-config)
+* [npm config](/commands/npm-co fig
+* )
 * [npmrc](/configuring-npm/npmrc)
 * [npm scripts](/using-npm/scripts)
 * [npm folders](/configuring-npm/folders)
